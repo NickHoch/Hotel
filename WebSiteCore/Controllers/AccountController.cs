@@ -13,7 +13,6 @@ using WebSiteCore.DAL.Entities;
 
 namespace WebSiteCore.Controllers
 {
-    //asd
     public class Credentials
     {
         public string Email { get; set; }
